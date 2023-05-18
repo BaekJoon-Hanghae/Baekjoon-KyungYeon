@@ -1,4 +1,4 @@
-package samsung.Q13460;
+package samsung.Q13460_구슬탈출2;
 
 import java.io.*;
 import java.util.*;
