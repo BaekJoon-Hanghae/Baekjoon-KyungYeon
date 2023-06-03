@@ -1,4 +1,4 @@
-package dfs_bfs.Q14888_연산자끼워넣기;
+package thisiscodingtest.dfs_bfs.Q14888_연산자끼워넣기;
 
 import java.io.*;
 import java.util.StringTokenizer;

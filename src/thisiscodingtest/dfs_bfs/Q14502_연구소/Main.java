@@ -1,4 +1,4 @@
-package dfs_bfs.Q14502_연구소;
+package thisiscodingtest.dfs_bfs.Q14502_연구소;
 
 import java.io.*;
 import java.util.*;
